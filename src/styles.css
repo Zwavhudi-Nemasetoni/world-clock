@@ -5,8 +5,8 @@ body {
 
 .container {
   max-width: 600px;
+  background: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
   margin: 60px auto;
-  background: white;
   padding: 30px;
   border-radius: 10px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
